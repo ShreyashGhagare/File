@@ -1,7 +1,16 @@
 # File
 Human resources -- We were trying to identify the monthly income for peopole with Attrition and Non-Attrition file.
-Video games sales -- We were trying to identify the sales for sport and shooter genre
+Video games sales -- We were trying to identify the sales for sport and shooter genre.
 
+------Directory structure------
+Please follow the directory structure in following order.
+1) Data folder
+2) Munge folder
+3) src folder
+4) Reports folder
+
+
+----------------------Insights-------------------
 
 ------------------Human_resource-------------
 There are a total of 237 people with attrition and 1233 people without attrition.
